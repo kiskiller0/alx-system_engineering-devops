@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rla | grep "\.gif$"
+find -type f -name "*.pdf" | sed 's/.gif//' | tr -d ./
