@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lat | head -n 11
+ls -t | head -n 11 | xargs -I{} echo {}
