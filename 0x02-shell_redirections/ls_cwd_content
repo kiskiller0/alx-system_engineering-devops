@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 coder coder 4096 Sep  4 16:29 .
+drwxr-xr-x 6 coder coder 4096 Sep  4 14:32 ..
+-rwxr-xr-x 1 coder coder   32 Sep  4 14:55 0-hello_world
+-rwxr-xr-x 1 coder coder   28 Sep  4 14:55 1-confused_smiley
+-rwxr-xr-x 1 coder coder   28 Sep  4 15:02 2-hellofile
+-rwxr-xr-x 1 coder coder   39 Sep  4 15:03 3-twofiles
+-rwxr-xr-x 1 coder coder   35 Sep  4 15:06 4-lastlines
+-rwxr-xr-x 1 coder coder   35 Sep  4 15:07 5-firstlines
+-rwxr-xr-x 1 coder coder   40 Sep  4 15:09 6-third_line
+-rwxr-xr-x 1 coder coder   97 Sep  4 15:59 7-file
+-rwxr-xr-x 1 coder coder   37 Sep  4 16:28 8-cwd_state
+-rw-r--r-- 1 coder coder   11 Sep  4 14:59 README.md
+-rw-r--r-- 1 coder coder   13 Sep  4 16:01 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 coder coder    0 Sep  4 16:29 ls_cwd_content
