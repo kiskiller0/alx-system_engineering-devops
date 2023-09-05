@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | sed 's/^.\///' | rev | cut -d / -f 1 | rev
+find . -empty -printf "%f\n"
