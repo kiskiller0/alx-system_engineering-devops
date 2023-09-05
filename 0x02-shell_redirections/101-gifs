@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -name "*.pdf" | sed 's/.gif//' | LC_ALL=C sort -f
+find . -empty -name "*.gif" -printf "%f\n"
